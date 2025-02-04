@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {VAJIRA-MD=FClAHbqB#PO-tTxosf0sUrD1va0LBAim1jyHFqV1frhVs-JD3reM}
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": "put session id here"
